@@ -28,14 +28,16 @@ vegetables = [
 # open a CSV file
 with open('veggies.csv', 'w') as f:
 	writer = csv.writer(f)
-	writer.writerow(['name', 'color'])
+	#write header
+	writer.writerow(['name', 'color', 'length'])
 	# loop through veggies
 	for vegetable in vegetables:
 		print(vegetable)
 
 		name = vegetable['name']
 		color = vegetable['color']
-		row = [name, color]
+		length_of_veggie = len(name)
+		row = [name, color, length_of_veggie]
 
 		writer.writerow(row)
 

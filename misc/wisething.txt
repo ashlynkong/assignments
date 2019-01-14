@@ -1,0 +1,16 @@
+In fact, S. M. Simpson, eventually devised an efficient 24-point Fourier
+transform, which was a precursor to the Cooley-Tukey fast Fourier transform
+in 1965.  The FFT made all of Simpson's efficient autocorrelation and
+spectrum programs instantly obsolete, on which he had worked half a lifetime.
+		-- Proc. IEEE, Sept. 1982, p.900
+The Seventh Commandments for Technicians:
+	Work thou not on energized equipment, for if thou dost, thy fellow
+	workers will surely buy beers for thy widow and console her in other
+	ways.
+There is no sadder sight than a young pessimist.
+Recursion n.:
+	See Recursion.
+		-- Random Shack Data Processing Dictionary
+Evolution is a million line computer program falling into place by accident.
+Why don't you ever enter any CONTESTS, Marvin??  Don't you know your
+own ZIPCODE?
